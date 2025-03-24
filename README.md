@@ -1,6 +1,6 @@
 # Mashing Learning: Coursera Stanford (Andrew Ng)
 
-![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/0/05/Machine_learning.png)\
+![Machine Learning](https://user-images.githubusercontent.com/101701760/169653264-0cf276ab-c905-487b-b19a-9330d07da26a.jpg)\
 This is a repository for my implementations, notebooks, and notes on the Machine Learning course of Stanford University/Coursera.
 
 Taught by [Andrew Ng](http://www.andrewng.org/)
@@ -19,15 +19,12 @@ The course covers key machine learning concepts, including:
 
 ## 📂 Repository Structure
 ```
-├── week1/      # Linear algebra, gradient descent
-├── week2/      # Linear regression
-├── week3/      # Logistic regression
-├── week4/      # Neural networks (basics)
-├── week5/      # Regularization
-├── week6/      # Support Vector Machines (SVM)
-├── week7/      # Clustering and PCA
-├── week8/      # Anomaly detection and recommendations
-├── notes/      # Lecture notes
+├── Introduce_Into_ML/      # Week 2: Linear algebra, gradient descent
+├── Linear_Regression/      # Week 3: Linear regression
+├── Classification/      # Week 4: Logistic regression and Classification
+├── Neural_Networks/      # Week 5: Neural networks (basics)
+├── Neural_Network_Training/      # Week 6: Activation functions
+├── Bias_Variance/      # Week 7: 
 └── README.md   # This file
 ```
 
