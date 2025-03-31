@@ -25,6 +25,7 @@ The course covers key machine learning concepts, including:
 ├── Neural_Networks/      # Week 5: Neural networks (basics)
 ├── Neural_Network_Training/      # Week 6: Activation functions
 ├── Bias_Variance/      # Week 7: 
+├── The_Decision_Tree/     # Week 8: Decision Tree
 └── README.md   # This file
 ```
 
