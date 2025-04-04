@@ -41,11 +41,11 @@ This repository is intended for educational purposes only. Materials belong to C
 
 ## Accomplishments
 <p align="center"> 
-    <img align="center"  src="Certificates/Coursera_ML.pdf"/>
+    <img align="center"  src="Certificates/2025-04-04_20-25-36.png"/>
 </p> 
 
 <p align="center"> 
-    <img align="center"  src="Certificates/Coursera_DL.pdf"/>
+    <img align="center"  src="Certificates/DL.png/>
 </p> 
 
 ## 🙌 Acknowledgments
