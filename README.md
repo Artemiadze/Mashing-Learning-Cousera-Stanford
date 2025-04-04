@@ -45,7 +45,7 @@ This repository is intended for educational purposes only. Materials belong to C
 </p> 
 
 <p align="center"> 
-    <img align="center"  src="Certificates/DL.png/>
+    <img align="center"  src="Certificates/DL.png"/>
 </p> 
 
 ## 🙌 Acknowledgments
