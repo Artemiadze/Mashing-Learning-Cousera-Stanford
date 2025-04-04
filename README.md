@@ -39,6 +39,15 @@ The course covers key machine learning concepts, including:
 ## 📜 License
 This repository is intended for educational purposes only. Materials belong to Coursera and Stanford University.
 
+## Accomplishments
+<p align="center"> 
+    <img align="center"  src="Certificates/Coursera_ML.pdf"/>
+</p> 
+
+<p align="center"> 
+    <img align="center"  src="Certificates/Coursera_DL.pdf"/>
+</p> 
+
 ## 🙌 Acknowledgments
 Huge thanks to **Andrew Ng** for an outstanding course! 
 If you find this repository useful, give it a ⭐ and share it with others!
