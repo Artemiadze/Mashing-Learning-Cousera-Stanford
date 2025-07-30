@@ -29,24 +29,8 @@ The course covers key machine learning concepts, including:
 └── README.md   # This file
 ```
 
-## 🛠 Installation and Usage
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Artemiadze/Mashing-Learning-Cousera-Stanford.git
-   cd Mashing-Learning-Cousera-Stanford
-   ```
-
 ## 📜 License
 This repository is intended for educational purposes only. Materials belong to Coursera and Stanford University.
-
-## Accomplishments
-<p align="center"> 
-    <img align="center"  src="Certificates/2025-04-04_20-25-36.png"/>
-</p> 
-
-<p align="center"> 
-    <img align="center"  src="Certificates/DL.png"/>
-</p> 
 
 ## 🙌 Acknowledgments
 Huge thanks to **Andrew Ng** for an outstanding course! 
